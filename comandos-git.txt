@@ -1,0 +1,32 @@
+Git - consola
+--------------
+1- gitbash
+crear repositorio
+2- git init
+
+3- chequeo status
+rescan = status
+
+git add enunciado.txt 
+(equivalente a state changed del gui)
+
+4-commit
+
+Git commit (escribo en vim el comentario)
+
+o
+git commit -m "escribo mensaje"
+
+5- git log
+(Muestra los cambios que hicimos)
+
+github (web)
+------------
+fork (abro una copia de otro proyecto)
+crear (creo un proyecto)
+
+creo un repositorio, lo clono lo modifico
+y lo subo.
+github consola
+git config --global http.proxy http[s]://capacita_mecon:capacitación@10.11.0.114:8080
+
